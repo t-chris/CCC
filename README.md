@@ -8,3 +8,5 @@ Doing this on NetBeans IDE, so to send it to CCCGrader, I had to change the main
 
 CCC2018S1: Logic wasn't hard but what the hell was this printing problem I had? Shoutout to Felix and Vert, they told me that I needed to format the doubles to just .1 with:
 System.out.printf("%.1f", neighbourhood[0]);
+
+CCC2000S1J3: Apart from mixing up += and =+, there weren't problems with the simulation itself. The problem came with TLEing; case two and three simply took too long. It was my first encounter with problems like those, and it sucked.
