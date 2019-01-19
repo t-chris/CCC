@@ -10,3 +10,5 @@ CCC2018S1: Logic wasn't hard but what the hell was this printing problem I had? 
 System.out.printf("%.1f", neighbourhood[0]);
 
 CCC2000S1J3: Apart from mixing up += and =+, there weren't problems with the simulation itself. The problem came with TLEing; case two and three simply took too long. It was my first encounter with problems like those, and it sucked.
+
+CCC2017S1: I need to try some more than S1s, but S1s and S2s still take too much time for me to solve I think. The logic was simple, I just had to learn some things about input. BufferedReader reduces time, I need to use StringTokenizer to split numbers with spaces, and need to refresh after every line. Comments have been made on the source code for this.
