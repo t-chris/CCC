@@ -16,3 +16,5 @@ CCC2017S1: I need to try some more than S1s, but S1s and S2s still take too much
 CCC2002J2: Yeah this one is a J2. It's a simple strings one, but I suck at strings, so this helps. It's a good ease into learning about substrings, charAt, length, etc.
 
 CCC2017S2: Yep, I made this too complicated. I'll look into it again. Logic isn't hard, just implementation with arrays. Will keep posting about it.
+
+CCC2016S2: Easiest one there is.
