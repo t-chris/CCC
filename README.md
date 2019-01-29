@@ -18,3 +18,5 @@ CCC2002J2: Yeah this one is a J2. It's a simple strings one, but I suck at strin
 CCC2017S2: Yep, I made this too complicated. I'll look into it again. Logic isn't hard, just implementation with arrays. Will keep posting about it.
 
 CCC2016S2: Easiest one there is.
+
+CCC2012S1: HUGE wake-up call to relearn combinatorics. I had to get help from friends for this one since I just completely blanked out. n = jerseys - 1  and k = 3.
