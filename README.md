@@ -20,3 +20,5 @@ CCC2017S2: Yep, I made this too complicated. I'll look into it again. Logic isn'
 CCC2016S2: Easiest one there is.
 
 CCC2012S1: HUGE wake-up call to relearn combinatorics. I had to get help from friends for this one since I just completely blanked out. n = jerseys - 1  and k = 3.
+
+CCC2017J3: Nothing tough, just some basic implementation.
