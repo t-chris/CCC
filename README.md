@@ -23,4 +23,4 @@ CCC2012S1: HUGE wake-up call to relearn combinatorics. I had to get help from fr
 
 CCC2017J3: Nothing tough, just some basic implementation.
 
-CCC2014S1: It's a pretty hard S1; at least, it made me THINK the most. I learned about Arraylists. That's about it.
+CCC2014S1: It's a pretty hard S1; at least, it made me THINK the most. I learned about arraylists! That was cool.
