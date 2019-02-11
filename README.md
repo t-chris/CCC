@@ -28,3 +28,5 @@ CCC2014S1: It's a pretty hard S1; at least, it made me THINK the most. I learned
 CCC2015S1: More arraylists. Easy. I'm getting stuck on a J3. I'm trying to use recursion. Will keep updating.
 
 CCC2012S2: I should have used switches, but it doesn't really matter. Anyways, I tried using a couple methods, but this last one keeps the conditions fine. I was actually having trouble with it until I realized I had to put the first condition in the && to make sure it doesn't check the second one which goes out of index. You can see it in the last few lines.
+
+CCC2011S1: Easy string question, and I suck at strings.
