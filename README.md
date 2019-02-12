@@ -30,3 +30,5 @@ CCC2015S1: More arraylists. Easy. I'm getting stuck on a J3. I'm trying to use r
 CCC2012S2: I should have used switches, but it doesn't really matter. Anyways, I tried using a couple methods, but this last one keeps the conditions fine. I was actually having trouble with it until I realized I had to put the first condition in the && to make sure it doesn't check the second one which goes out of index. You can see it in the last few lines.
 
 CCC2011S1: Easy string question, and I suck at strings.
+
+CCC2010S1: I hate this damn question. I tried solving it with arrays, but then I get WAs for some middle cases but get a couple right (including the last one). I tried to match every index with a name, score, etc., but for some reason my logic checked out for only a couple cases. Frustrated, I just removed arrays, used one Arraylist to keep track of the names, and just stored variables given sets of conditions. This was not the hardest; it was simple the most frustrating.
