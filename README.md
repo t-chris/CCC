@@ -32,3 +32,5 @@ CCC2012S2: I should have used switches, but it doesn't really matter. Anyways, I
 CCC2011S1: Easy string question, and I suck at strings.
 
 CCC2010S1: I hate this damn question. I tried solving it with arrays, but then I get WAs for some middle cases but get a couple right (including the last one). I tried to match every index with a name, score, etc., but for some reason my logic checked out for only a couple cases. Frustrated, I just removed arrays, used one Arraylist to keep track of the names, and just stored variables given sets of conditions. This was not the hardest; it was simple the most frustrating.
+
+CCC2016S1: The infamous Ragaman. This solution is much easier if you know how ASCII tables work. Felix has a much better response since he's a genius (https://github.com/FelixHe4/Competitive-Programming/blob/master/CCC/ccc16s1.java).
