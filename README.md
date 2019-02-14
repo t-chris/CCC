@@ -37,4 +37,4 @@ CCC2016S1: The infamous Ragaman. This solution is much easier if you know how AS
 
 CCC2009S1: The dreaded floating point error issue. Test case 3 had a number (inputted as a and b) which was a prime and was pretty large, so I used Decimal Format to make it a couple decimal places, parsed that String for that double, and checked if it was able to be an integer. This was only used for the special case that the numbers are zero. I used Math.floor and Math.ceil to find the integers within a range of numbers to the 6th power. This one frustrated me.
 
-CCC2008S1: StringTokenizer constructors put at the beginning of a for/while loop doesnt register the first input (aka blank line, input anything). When it's put at the end, it doesn't register the last output. This happened for one of the other questions (I believe '10 S1?), so I put an if statement to not call for StringTokenizer when it's at the end of the loop. String.split() might be the right path for me now.
+CCC2008S1: I'm an idiot, Cathy was right: I didn't need to put the constructor there since there's no input needed. Thanks! I guess I'm not breaking up with StringTokenizer.
