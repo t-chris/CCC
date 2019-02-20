@@ -42,3 +42,5 @@ CCC2008S1: I'm an idiot, Cathy was right: I didn't need to put the constructor t
 CCC2007S1: Just for loops.
 
 CCC2014S2: Hashmaps exist, and they're just links of arrays. The world of sets/hashsets/etc. are weird.
+
+CCC2010S2: This one was really fun! String algos I guess.
