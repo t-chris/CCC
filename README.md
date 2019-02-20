@@ -40,3 +40,5 @@ CCC2009S1: The dreaded floating point error issue. Test case 3 had a number (inp
 CCC2008S1: I'm an idiot, Cathy was right: I didn't need to put the constructor there since there's no input needed. I guess I'm not breaking up with StringTokenizer.
 
 CCC2007S1: Just for loops.
+
+CCC2014S2: Hashmaps exist, and they're just links of arrays. The world of sets/hashsets/etc. are weird.
